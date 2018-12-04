@@ -1,0 +1,1 @@
+print('Fenty ' * 1000)
